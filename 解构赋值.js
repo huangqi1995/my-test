@@ -18,3 +18,5 @@ let obj = {
 
 let {name,age:num,sex = '女'} = obj;
 console.log();
+
+let num1 = 999;
